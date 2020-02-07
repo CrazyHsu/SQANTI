@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # SQANTI filtering: Filtering of Isoforms based on SQANTI attributes
 # Authors: Lorena de la Fuente and Cecile Pereira
 
